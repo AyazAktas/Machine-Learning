@@ -5,7 +5,7 @@ Tabii Ayaz 👍 Senin yol haritanı bozmadan ama eksikleri tamamlayarak genişle
 
 ---
 
-# 🗺 Machine Learning Yol Haritası (Güncellenmiş)
+# 🗺 Machine Learning Yol Haritası 
 
 ---
 
